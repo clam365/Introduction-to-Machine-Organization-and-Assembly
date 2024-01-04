@@ -1,0 +1,4 @@
+./hex2raw < ctarget.11.txt | ./ctarget
+./hex2raw < ctarget.12.txt | ./ctarget
+./hex2raw < ctarget.13.txt | ./ctarget
+./hex2raw < rtarget.12.txt | ./rtarget
